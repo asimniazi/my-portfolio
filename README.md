@@ -32,16 +32,17 @@ It is built with **HTML, CSS, and JavaScript** and is **fully responsive** acros
 ---
 
 ## 📸 Preview  
-![image](https://github.com/user-attachments/assets/d50de686-2534-40f2-959c-3f86193ed730)
-![image](https://github.com/user-attachments/assets/5af89822-6ab2-4a73-87cf-a203c31069f6)
-![image](https://github.com/user-attachments/assets/2eff24bb-1395-47dd-b167-9fc23a6f715a)
- 
+![image](https://github.com/user-attachments/assets/c2669850-0993-4ab2-9725-877485f62738)
+![image](https://github.com/user-attachments/assets/900ffa1d-074d-4830-978a-d012c7229926)
+![image](https://github.com/user-attachments/assets/0e76183a-8fdb-4518-ac10-0e6e76cd94c9)
+![image](https://github.com/user-attachments/assets/a8908abd-5562-4a72-b375-cce039b41e34)
+
 ---
 
 ## 📬 Contact
-📧 **Email:** [asimniazi100@gmail.com](mailto:asimniazi100@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/i-am-asim-khan](http://www.linkedin.com/in/i-am-asim-khan) 
-🐱 **GitHub:** [github.com/asimniazi](https://github.com/asimniazi) 
+📧 **Email:** [asimniazi100@gmail.com](mailto:asimniazi100@gmail.com)<br>
+🔗 **LinkedIn:** [linkedin.com/in/i-am-asim-khan](http://www.linkedin.com/in/i-am-asim-khan)<br> 
+🐱 **GitHub:** [github.com/asimniazi](https://github.com/asimniazi)<br> 
 
 ---
 
