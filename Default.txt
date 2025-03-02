@@ -1,0 +1,24 @@
+ <!-- <div class="skillsTab">
+                <p><span>Web Development</span><br>Developing websites from
+                    scratch<br><span>Programming</span><br>Python Fundamentals,
+                    Java-Script<br><span>C++</span><br>Fundamentals, OOP, DS
+                </p>
+            </div>
+            <div class="skillsTab">
+                <p><span>2022-2023</span><br>Learning how to design websites<br><span>2023-2024</span><br>Hired by Code-Alpha for internship<br><span>2024 - Continue </span><br>Continue research in the field of Web
+                </p>
+            </div> -->
+
+
+
+
+
+
+
+
+
+
+ <!-- <div class="skillsTab">
+                <p><span>2022-2023</span><br>Learning how to design websites<br><span>2023-2024</span><br>Hired by Code-Alpha for internship<br><span>2024 - Continue </span><br>Continue research in the field of Web
+                </p>
+            </div> -->
